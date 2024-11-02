@@ -1,0 +1,24 @@
+.{
+    align-items: center;
+}
+
+
+body {
+    background-color: darkolivegreen;
+    color: white;
+    margin-left: 15px;
+    text-align: center;
+
+}
+
+img {
+    max-width: 100%;
+    border-radius: 10%;
+
+}
+
+video {
+    max-width: 100%;
+    transform: rotate(270deg);
+    border-radius: 10%;
+}
